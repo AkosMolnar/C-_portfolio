@@ -1,0 +1,14 @@
+D:\GitHub\C-_portfolio\ora4\enums\bin\Debug\netcoreapp3.1\enums.exe
+D:\GitHub\C-_portfolio\ora4\enums\bin\Debug\netcoreapp3.1\enums.deps.json
+D:\GitHub\C-_portfolio\ora4\enums\bin\Debug\netcoreapp3.1\enums.runtimeconfig.json
+D:\GitHub\C-_portfolio\ora4\enums\bin\Debug\netcoreapp3.1\enums.runtimeconfig.dev.json
+D:\GitHub\C-_portfolio\ora4\enums\bin\Debug\netcoreapp3.1\enums.dll
+D:\GitHub\C-_portfolio\ora4\enums\bin\Debug\netcoreapp3.1\enums.pdb
+D:\GitHub\C-_portfolio\ora4\enums\obj\Debug\netcoreapp3.1\enums.csproj.AssemblyReference.cache
+D:\GitHub\C-_portfolio\ora4\enums\obj\Debug\netcoreapp3.1\enums.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C-_portfolio\ora4\enums\obj\Debug\netcoreapp3.1\enums.AssemblyInfoInputs.cache
+D:\GitHub\C-_portfolio\ora4\enums\obj\Debug\netcoreapp3.1\enums.AssemblyInfo.cs
+D:\GitHub\C-_portfolio\ora4\enums\obj\Debug\netcoreapp3.1\enums.csproj.CoreCompileInputs.cache
+D:\GitHub\C-_portfolio\ora4\enums\obj\Debug\netcoreapp3.1\enums.dll
+D:\GitHub\C-_portfolio\ora4\enums\obj\Debug\netcoreapp3.1\enums.pdb
+D:\GitHub\C-_portfolio\ora4\enums\obj\Debug\netcoreapp3.1\enums.genruntimeconfig.cache
